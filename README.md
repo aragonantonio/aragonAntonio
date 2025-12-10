@@ -5,6 +5,7 @@ Sou estudante do curso de Big Data e Inteligência Analítica pela UNISUL e tamb
 Busco recolocação dentro da área de Ciência de Dados e vejo que meus conhecimentos em Marketing e Vendas podem ajudar bastente quando combinados com os conceitos da Análise de Dados. 
 
 ## 🧠 Skills:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
