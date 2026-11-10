@@ -1,8 +1,8 @@
 ## Olá! 👋
 
-Sou estudante do curso de Big Data e Inteligência Analítica pela UNISUL e também estudo Ciência de Dados na EBAC. Tenho experiência dentro da área comercial, atuando principalmente como SDR e BDR, com foco em empresas SaaS. Gosto de combinar minhas habilidades na área comercial com uma visão mais estratégica e orientada por dados que a tecnologia pode oferecer. 
+Sou estudante do curso de Big Data e Inteligência Analítica pela UNISUL e também estudo Ciência de Dados na EBAC. Tenho experiência dentro da área comercial, atuando principalmente como SDR e BDR, com foco em empresas SaaS. Gosto de combinar esses conhecimentos com estatística e tecnologia para entregar recomendações claras para os times de liderança. 
 
-Busco recolocação dentro da área de Ciência de Dados e vejo que meus conhecimentos em Marketing e Vendas podem ajudar bastente quando combinados com os conceitos da Análise de Dados. 
+Busco recolocação dentro da área de SalesOps e vejo que meus conhecimentos em Marketing e Vendas podem ajudar bastente quando combinados com os conceitos da Análise de Dados. 
 
 ## 🧠 Skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
